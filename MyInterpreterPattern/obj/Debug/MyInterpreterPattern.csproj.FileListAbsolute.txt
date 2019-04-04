@@ -1,0 +1,6 @@
+c:\users\ben\source\repos\MyInterpreterPattern\MyInterpreterPattern\obj\Debug\MyInterpreterPattern.csprojAssemblyReference.cache
+c:\users\ben\source\repos\MyInterpreterPattern\MyInterpreterPattern\obj\Debug\MyInterpreterPattern.csproj.CoreCompileInputs.cache
+c:\users\ben\source\repos\MyInterpreterPattern\MyInterpreterPattern\bin\Debug\MyInterpreterPattern.exe
+c:\users\ben\source\repos\MyInterpreterPattern\MyInterpreterPattern\bin\Debug\MyInterpreterPattern.pdb
+c:\users\ben\source\repos\MyInterpreterPattern\MyInterpreterPattern\obj\Debug\MyInterpreterPattern.exe
+c:\users\ben\source\repos\MyInterpreterPattern\MyInterpreterPattern\obj\Debug\MyInterpreterPattern.pdb
